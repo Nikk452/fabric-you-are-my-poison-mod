@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "nikk.youaremypoison.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"LivingEntityMixin",
+		"AnimalEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
